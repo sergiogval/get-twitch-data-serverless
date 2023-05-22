@@ -5,7 +5,7 @@
   "author": "Jason Lengstorf <jason@lengstorf.com> (https://lengstorf.com)",
   "license": "MIT",
   "dependencies": {
-    "@jlengstorf/get-twitch-oauth": "^1.0.0",
+    "@jlengstorf/get-twitch-oauth": "^1.0.1",
     "node-fetch": "^2.6.0"
   }
 }
